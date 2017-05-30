@@ -10,6 +10,17 @@ $ npm install markobj
 ```
 
 
+## Building the Example
+This will install `Webpack`, `eslint`, `babel`, `es2015` and the necessary loaders to transpile the example code to an `app.bundle.js` file. If you just want to run the example and not continue to modify the example code, then you do not need the `--watch` flag for the `webpack` command.
+
+```
+$ cd /directory/where/you/installed/markobj
+$ npm install
+$ webpack --watch
+$ open http://localhost/markobj/example.html
+```
+
+
 ## Usage
 
 ```js
