@@ -13,6 +13,7 @@
     "object",
     "render"
   ],
+  "repository": "https://github.com/joshuamil/markobj.git",
   "author": "Joshua Miller <joshuamil@gmail.com>",
   "license": "ISC",
   "dependencies": {},
