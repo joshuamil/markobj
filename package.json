@@ -1,6 +1,6 @@
 {
   "name": "markobj",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Renders DOM objects from HTML markup, allowing you to simplify the creation of HTML elements in JavaScript using HTML syntax.",
   "main": "markobj.js",
   "scripts": {

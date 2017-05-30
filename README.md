@@ -1,6 +1,6 @@
 # markobj
 
-`markobj` renders DOM objects from HTML markup, allowing you to simplify the creation of HTML elements in JavaScript using HTML syntax.
+`markobj` renders DOM objects from HTML markup, allowing you to simplify the creation of HTML elements in JavaScript using HTML syntax. `markobj` is syntactically similar to ES6 [_template literals_](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals) or _template strings_, but with the added benefit of returning DOM objects instead of HTML strings.
 
 
 ## Install
