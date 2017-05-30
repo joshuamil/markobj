@@ -1,0 +1,29 @@
+{
+  "name": "markobj",
+  "version": "0.0.2",
+  "description": "Renders DOM objects from HTML markup, allowing you to simplify the creation of HTML elements in JavaScript using HTML syntax.",
+  "main": "markobj.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "markup",
+    "html",
+    "dom",
+    "object",
+    "render"
+  ],
+  "author": "Joshua Miller <joshuamil@gmail.com>",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-preset-es2015": "^6.24.1",
+    "es2015": "0.0.0",
+    "eslint": "^3.19.0",
+    "eslint-loader": "^1.7.1",
+    "html-webpack-plugin": "^2.28.0",
+    "webpack": "^2.6.1"
+  }
+}
